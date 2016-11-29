@@ -1,0 +1,23 @@
+{
+  "name": "mora-comigo-servidor-teste",
+  "version": "1.0.0",
+  "description": "My app description",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "compression": "^1.6.2",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^7.1.9",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.8",
+    "mongoose-auto-increment": "^5.0.1",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "6.1.0"
+  }
+}

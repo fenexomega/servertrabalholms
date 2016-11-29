@@ -1,0 +1,114 @@
+[{
+    "typeHousing": 1,
+
+					"street":"Rua Tabelião Ferreira",
+					"city": "Quixadá",
+					"number": 123,
+					"neighborhood":"Centro",
+    "value":340.00,
+    "facilities":[1,2],
+    "typeAd": 1,
+    "images":["2.jpg"],
+	"describe":"Descrição para fazer" 
+
+ },
+{
+	"typeHousing": 2,
+
+					"street":"Rua Argemiro Vieira Lima",
+					"city": "Quixadá",
+					"number": 123,
+					"neighborhood":"Planalto Universitárop",
+    "value":440.00,
+    "facilities":[1,2],
+    "typeAd": 2,
+    "images":["1.jpg"],
+	"describe":"Descrição para fazer" 
+
+    },
+{
+	"typeHousing": 2,
+
+					"street":"Rua Epitácio Pessoa",
+					"city": "Quixadá",
+					"number": 1232,
+					"neighborhood":"Centro",
+    "value":440.00,
+    "facilities":[1,2],
+    "typeAd": 2,
+    "images":["1.jpg"],
+	"describe":"Descrição para fazer" 
+
+    },
+{
+	"typeHousing": 1,
+
+					"street":"Travessa Aristides Gonçalves Silva",
+					"city": "Quixadá",
+					"number": 100,
+					"neighborhood":"Rodoviária",
+    "value":400.00,
+    "facilities":[1,2],
+    "typeAd": 1,
+    "images":["2.jpg"],
+	"describe":"Descrição para fazer" 
+
+    },
+{
+	"typeHousing": 1,
+
+					"street":"Avenida José Caetano",
+					"city": "Quixadá",
+					"number": 1300,
+					"neighborhood":"Lagoa",
+    "value":340.00,
+    "facilities":[1,2],
+    "typeAd": 1,
+    "images":["2.jpg"],
+	"describe":"Descrição para fazer" 
+
+},
+{
+	"typeHousing": 2,
+
+					"street":"Rua Pedro Cabral",
+					"city": "Quixadá",
+					"number": 1001,
+					"neighborhood":"Planalto Universitário",
+    "value":440.00,
+    "facilities":[1,2],
+    "typeAd": 1,
+    "images":["1.jpg"],
+	"describe":"Descrição para fazer" 
+
+},
+{
+
+	"typeHousing": 2,
+
+					"street":"Rua Dom Lucas",
+					"city": "Quixadá",
+					"number": 533,
+					"neighborhood":"Alto São Francisco",
+    "value":450.00,
+    "facilities":[1,2],
+    "typeAd": 2,
+    "images":["1.jpg"],
+	"describe":"Descrição para fazer" 
+
+},
+{
+	"typeHousing": 2,
+
+					"street":"Rua Rodrigues Júnior",
+					"city": "Quixadá",
+					"number": 1040,
+					"neighborhood":"Alto São Francisco",
+    "value":400.00,
+    "facilities":[1,2],
+    "typeAd": 2,
+    "images":["1.jpg"],
+	"describe":"Descrição para fazer" 
+
+}
+]
